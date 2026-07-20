@@ -1,0 +1,6 @@
+https://data.transportation.gov/Trucking-and-Motorcoaches/OUT-OF-SERVICE-ORDERS/p2mt-9ige/about_data
+https://data.transportation.gov/resource/p2mt-9ige.json
+
+1. Many OpenAI models not working with OpenAPI integration as a tool; GPT-5.1 is compatible 
+2. Sales-Opportunity-Agent; Web search hindering access to additional data source
+3. Find-My-City; Unavailability of FMCSA QCMobile API; ALternative Safer website also down; Fallback to Web Search
